@@ -1,0 +1,52 @@
+h1 {
+    font-family: serif;
+    color: #ff0000;
+  font-size: 140px; }
+
+h1{
+  background-color: #dddddd;
+  width: 500px;
+  height: 80px;
+  padding: 20px;
+  }
+
+li {
+  color: red;
+  list-style:none;
+  float: left;
+}
+
+.header {
+   background-color: #f7f264;
+   height: 90px;
+  position: fixed;
+}
+
+span {
+  color: #ff0000;
+}
+
+div {
+  height: 200px;
+  background-image: https://wallpapertag.com/wallpaper/full/f/c/a/751445-artificial-intelligence-wallpapers-1920x1080-photo.jpg;
+  background-size: cover;
+}
+h1{
+  color: white;}
+
+div:hover {
+  background-color: red;
+}
+
+div{
+  transition: all 1s; }
+
+div:active {
+  background-color: red; }
+
+.viewport {
+  @media(max-width: 1000px)
+    }
+
+
+
